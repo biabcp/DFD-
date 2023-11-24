@@ -1,35 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T23:18:15.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CgzzfH0HZMSgSBH4nkJV" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-24T16:31:16.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HfckqN8GD2hYapCiP4lv" version="22.1.3" type="github">
   <diagram name="Page-1" id="dbJrBeKMu9XxgdYBFWq-">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DuCQzQeg1L_82CdrdjX1-16" value="Ireland&#39;s Data Protection Commission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DuCQzQeg1L_82CdrdjX1-16" target="ra4xmg58kN4Kjqp0mdpW-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DuCQzQeg1L_82CdrdjX1-17" value="EU and EEA Users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="224" width="120" height="60" as="geometry" />
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-19" value="Issuing fine and&lt;br&gt;&amp;nbsp;compliance orders." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ra4xmg58kN4Kjqp0mdpW-18">
+          <mxGeometry x="0.3067" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="DuCQzQeg1L_82CdrdjX1-18" value="Meta Platform Ireland" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="DuCQzQeg1L_82CdrdjX1-16" value="Ireland&#39;s Data Protection Commission" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-590" y="434" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DuCQzQeg1L_82CdrdjX1-19" value="European Data Protection Board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="DuCQzQeg1L_82CdrdjX1-17" value="EU and EEA Users" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1150" y="344" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DuCQzQeg1L_82CdrdjX1-22" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="DuCQzQeg1L_82CdrdjX1-18" value="Meta Platform Ireland" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-950" y="4" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DuCQzQeg1L_82CdrdjX1-23" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="500" width="100" height="30" as="geometry" />
+        <mxCell id="DuCQzQeg1L_82CdrdjX1-19" value="European Data Protection Board" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-470" y="294" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DuCQzQeg1L_82CdrdjX1-24" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="580" width="100" height="30" as="geometry" />
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DuCQzQeg1L_82CdrdjX1-22" target="DuCQzQeg1L_82CdrdjX1-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DuCQzQeg1L_82CdrdjX1-25" value="Data Transfer Mechanism" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="200" y="50" width="150" height="50" as="geometry" />
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-17" value="&lt;div&gt;Reporting of non-compliant data storage&lt;/div&gt;&lt;div&gt;&amp;nbsp;and processing practices.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ra4xmg58kN4Kjqp0mdpW-13">
+          <mxGeometry x="-0.0067" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="DuCQzQeg1L_82CdrdjX1-26" value="GDPR Enforcement Action" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="250" y="170" width="180" height="50" as="geometry" />
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DuCQzQeg1L_82CdrdjX1-22" target="DuCQzQeg1L_82CdrdjX1-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DuCQzQeg1L_82CdrdjX1-22" value="U.S. Data Storage and Processing Data Store" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-980" y="564" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ra4xmg58kN4Kjqp0mdpW-1" target="DuCQzQeg1L_82CdrdjX1-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-6" value="Transferring EU and &lt;br&gt;EEA Users&#39; data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ra4xmg58kN4Kjqp0mdpW-5">
+          <mxGeometry x="-0.025" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-1" value="1.1&lt;br&gt;Data Transfer Mechanism" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="164" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ra4xmg58kN4Kjqp0mdpW-2" target="DuCQzQeg1L_82CdrdjX1-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-24" value="Review and support of&lt;br&gt;&amp;nbsp;enforcement action." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ra4xmg58kN4Kjqp0mdpW-22">
+          <mxGeometry x="-0.2261" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-2" value="2.1&lt;br&gt;GDPR Enforcement Action" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="274" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.04;entryY=0.29;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DuCQzQeg1L_82CdrdjX1-18" target="ra4xmg58kN4Kjqp0mdpW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-4" value="Initiating Data Transfers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ra4xmg58kN4Kjqp0mdpW-3">
+          <mxGeometry x="-0.3835" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.008;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ra4xmg58kN4Kjqp0mdpW-2" target="DuCQzQeg1L_82CdrdjX1-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-21" value="Enforcement notification&lt;br&gt;&amp;nbsp;and actions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ra4xmg58kN4Kjqp0mdpW-20">
+          <mxGeometry x="-0.2199" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-25" value="&lt;b&gt;&lt;i&gt;De Marco and Yourdon&lt;br&gt;Context Level 0 Diagram&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="14" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-37" value="" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;align=left;verticalAlign=top;fillColor=none;strokeColor=none;fontColor=#4D4D4D;fontStyle=1;spacingLeft=6;spacing=0;resizable=0;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="614" width="110" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-38" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ra4xmg58kN4Kjqp0mdpW-37">
+          <mxGeometry y="30" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-39" value="&lt;b&gt;Legend&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=center;spacingLeft=10;spacingRight=4;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="ra4xmg58kN4Kjqp0mdpW-38">
+          <mxGeometry width="110" height="45" as="geometry">
+            <mxRectangle width="110" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-40" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ra4xmg58kN4Kjqp0mdpW-37">
+          <mxGeometry y="75" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-41" value="External Entities" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=center;spacingLeft=10;spacingRight=4;" vertex="1" parent="ra4xmg58kN4Kjqp0mdpW-40">
+          <mxGeometry width="110" height="45" as="geometry">
+            <mxRectangle width="110" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-42" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ra4xmg58kN4Kjqp0mdpW-37">
+          <mxGeometry y="120" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-43" value="Processes" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d6b656;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=center;spacingLeft=10;spacingRight=4;" vertex="1" parent="ra4xmg58kN4Kjqp0mdpW-42">
+          <mxGeometry width="110" height="45" as="geometry">
+            <mxRectangle width="110" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ra4xmg58kN4Kjqp0mdpW-37">
+          <mxGeometry y="165" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ra4xmg58kN4Kjqp0mdpW-45" value="Data Store" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#82b366;overflow=hidden;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=center;spacingLeft=10;spacingRight=4;" vertex="1" parent="ra4xmg58kN4Kjqp0mdpW-44">
+          <mxGeometry width="110" height="45" as="geometry">
+            <mxRectangle width="110" height="45" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
